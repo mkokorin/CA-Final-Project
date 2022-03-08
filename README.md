@@ -1,4 +1,4 @@
-CodeAcademy Individualus Projektas
+ CodeAcademy Individualus Projektas
 
 Required programs to start
 * Visual Studio Code
@@ -13,5 +13,5 @@ Server
 * cd server
 * npm start
   
-Install libraries
-* npm i
+Setup
+* run npm i to install
