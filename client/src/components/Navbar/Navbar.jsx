@@ -22,7 +22,7 @@ import { Box } from "@material-ui/core";
 const navigationLinks = [
   { name: 'Home', href: '/' },
   { name: 'Reviews', href: '/Reviews' },
-  { name: 'Contacts', href: '' },
+  { name: 'Contacts', href: '/' },
 ]
 
 const useStyles = makeStyles((theme) => ({
